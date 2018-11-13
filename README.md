@@ -13,5 +13,5 @@ This week we will practice how to do geocoding, spatial joins and nearest neighb
  - [Problem 1: Geocode shopping centers](Exercise-3-Problem-1-3.ipynb#problem-1-geocode-shopping-centers-5-points)
  - [Problem 2: Create buffers around shopping centers](Exercise-3-Problem-1-3.ipynb#problem-2-create-buffers-around-shopping-centers-5-points)
  - [Problem 3: How many people live within 5 km from shopping centers?](Exercise-3-Problem-1-3.ipynb#problem-3-how-many-people-live-within-5-km-from-shopping-centers-5-points)
- - [Problem 4: What is the closest shopping center from your home / work?](Exercise-3-Problem-4)
+ - [Problem 4: What is the closest shopping center from your home / work?](Exercise-3-Problem-4.ipynb)
  
