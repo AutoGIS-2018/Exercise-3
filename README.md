@@ -4,7 +4,7 @@ This week we will practice how to do geocoding, spatial joins and nearest neighb
 
 - **Exercise 3 is due by Wednesday 21.11. at the end of the day**.
 
-- Hints will be added [here](https://automating-gis-processes.github.io/2018/lessons/L3/exercise-3.html) if needed. Remember also to ask for help if our Slack channel!
+- Hints will be added [here](https://automating-gis-processes.github.io/2018/lessons/L3/exercise-3.html) if needed. Remember also to ask for help in our Slack channel!
 
 - Scores on this exercise are out of **20 points**.
 
